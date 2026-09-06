@@ -1,1 +1,11 @@
-/* your code */
+table{
+	width:100%;
+	padding:20px;
+}
+#head{
+	background-color:blueviolet;
+	color:white;
+}
+.even{
+	background-color:lightgray;
+}
